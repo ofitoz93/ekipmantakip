@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+
+/* Kendi özel CSS'lerin varsa altına ekleyebilirsin */
+body {
+  @apply bg-slate-50 antialiased;
+}
